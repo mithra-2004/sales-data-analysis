@@ -19,7 +19,7 @@ The main goal is to extract meaningful insights from raw sales data and present 
   - `Region'
 
 ## 🛠️ Tools & Libraries
-- Python 🐍  
+- Python  
 - Pandas  
 - Matplotlib  
 - Seaborn  
